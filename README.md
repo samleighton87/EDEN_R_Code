@@ -1,4 +1,4 @@
-# Developing and validating multivariable prediction models of remission, recovery and quality of life outcomes in people with first episode psychosis – a machine learning approach.
+# Development and validation of multivariable prediction models of remission, recovery and quality of life outcomes in people with first episode psychosis – a machine learning approach.
 
 This is the R code for our manuscript.
 
@@ -18,3 +18,5 @@ We would like to acknowledge the authors of the following packages which were re
 * https://CRAN.R-project.org/package=gtools
 * https://CRAN.R-project.org/package=DescTools
 * https://CRAN.R-project.org/package=plyr
+* https://CRAN.R-project.org/package=matrixStats
+* https://github.com/nogueirs/JMLR2018
