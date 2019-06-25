@@ -2,7 +2,7 @@
 
 This is the R code for our manuscript.
 
-Comments are inline in the code.R file which should make it easy to use. Any issues contact the authors.
+Comments are inline in the code.R, scottishValidation.R and opusValidation.R files and should be easy to follow. Any issues contact the authors.
 
 We would like to acknowledge the authors of the following packages which were required for our analysis:
 * https://CRAN.R-project.org/package=readr
